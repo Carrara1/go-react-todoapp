@@ -1,4 +1,4 @@
-module go-react-todoapp
+module github.com/Carrara1/go-react-todoapp
 
 go 1.21.1
 
