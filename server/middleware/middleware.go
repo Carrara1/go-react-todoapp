@@ -8,9 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	//trouble importing, need to fix
-	"github.com/Carrara1/go-react-todoapp/models/"
-
+	"github.com/Carrara1/go-react-todoapp/models"
 	"github.com/gorilla/mux"
 	"github.com/joho/godotenv"
 	"go.mongodb.org/mongo-driver/bson"
